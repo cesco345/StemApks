@@ -1,5 +1,5 @@
 #include <opencv2/opencv.hpp> //Include file for every supported OpenCV function
-using namespace cv;
+
 	
 int main( int argc, char** argv ) {
 
